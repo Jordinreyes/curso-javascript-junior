@@ -1,0 +1,35 @@
+FUNCIONES DE ALGUNOS STRING
+
+startswith () - Si una cadena comienza con los caracteres de otra cadena, devuelva true, si no devuelva false
+
+endswith () - Si una cadena termina con los caracteres de otra cadena, devuelva true, si no devuelva false
+
+includes() - Si una cadena puede encontrarse dentro de otra cadena, devuelve true, si no false
+
+indexOf () - Devuelve el indice del primer caracter de la cadena, si no existe, devuelve -1
+findIndex() - Devuelve el índice del primer elemento que cumple una condición, o -1 si no encuentra 
+coincidencias.
+
+lastIndexOf () - Devuelve el ultimo indice del primer caracter de la cadena, si no existe, devuelve-1
+
+padStart () - [Propuesta de estandar] - Rellenar cadena al principio con los caracteres deseados
+padEnd () - [Propuesta de ECMA] - Rellenar cadena al final con los caracteres deseados
+repeat () - Devuelve la misma cadena pero repetida la cantidad que le indiquemos
+
+split() - Divide una cadena en un array de subcadenas. => STRING TO ARRAY
+
+substring () - Nos retorna un pedazo de la cena que seleccionemos
+
+toLowerCase () - Convierte una cadena a minuscula
+
+toUpperCase () - Convierte una cadena a mayuscula
+
+toString() - Convierte un array en una cadena de texto separada por comas.
+
+trim() - Elimina los espacio en blanco al principio y al final de una cadena
+
+trimEnd() - Elimina los espacios en blanco al final de una cadena
+
+trimStart() - Elimina los espacios en blanco al principio de una cadena
+
+valuesOf() - Retorna el valor primitivo de un objeto string

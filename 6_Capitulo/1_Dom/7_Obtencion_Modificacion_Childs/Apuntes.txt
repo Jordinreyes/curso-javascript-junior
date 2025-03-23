@@ -1,0 +1,39 @@
+OBTENCIÓN Y MODIFICACIÓN DE CHILDS
+
+firstchild
+lastchild
+firstElementChild
+lastElementChild
+childNodes
+children
+
+--------------------------------------------------------------------------------------------------
+
+METODOS DE CHILDS
+
+replaceChild()
+removeChild()
+hasChildNodes()
+
+
+--------------------------------------------------------------------------------------------------
+
+PROPIEDADES DEL PADRE
+
+parentElement
+
+parentNode
+
+--------------------------------------------------------------------------------------------------
+
+PROPIEDADES DE SIBLINGS
+
+nextSibling
+
+previousSibling
+
+nextElementSibling
+
+previousElementSibling
+
+--------------------------------------------------------------------------------------------------

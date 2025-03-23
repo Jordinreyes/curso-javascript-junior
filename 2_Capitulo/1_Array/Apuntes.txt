@@ -1,0 +1,54 @@
+push() - Agrega uno o más elementos al final del array.
+
+unshift() - Agrega uno o más elementos al inicio del array.
+
+shift() - Elimina el primer elemento del array y lo devuelve.
+
+pop() - Elimina el último elemento del array y lo devuelve.
+
+length - Propiedad que indica la cantidad de elementos del array.
+
+indexOf() - Devuelve el índice del primer elemento que coincide con el valor dado. Si no lo encuentra, devuelve -1.
+
+concat() - Combina dos o más arrays en uno nuevo.
+
+forEach() - Ejecuta una función sobre cada elemento del array.
+
+sort() - Ordena los elementos de un array y lo modifica.
+
+reverse() - Invierte el orden de los elementos de un array.
+
+splice(); - Elimina el rango del array que le indiques
+
+
+/*
+
+*/
+
+ARRAY AVANZADOS
+
+keys() - Devuelve un iterador de las claves del array.
+
+values() - Devuelve un iterador de los valores del array.
+
+find() - Devuelve el primer elemento que cumple una condición.
+
+isArray() - Verifica si un valor es un array.
+
+reduce() - Aplica una función a un acumulador y cada valor del array para reducirlo a un solo valor.
+
+every() - Devuelve true si todos los elementos del array cumplen una condición.
+
+some() - Devuelve true si al menos un elemento del array cumple una condición.
+
+fill() - Llena todos los elementos de un array con un valor estático.
+
+flat() - Aplana un array de arrays en un solo array hasta una profundidad especificada.
+
+flatMap() - Aplica una función a cada elemento y luego aplana el resultado en un solo array.
+
+from() - Crea un nuevo array a partir de un objeto iterable.
+
+entries() - Devuelve un iterador de las claves y valores del array.
+
+map() - Crea un nuevo array aplicando una función a cada elemento del array original.

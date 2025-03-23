@@ -1,0 +1,9 @@
+lOS DEMAS ESTAN EN EL CAPITULO 2
+
+join() - Une todos los elementos de un array en una cadena con un separador especificado.
+
+slice() - Devuelve una porción de un array sin modificar el original.
+
+splice() - Permite agregar o eliminar elementos en cualquier posición de un array.
+
+filter() - Crea un nuevo array con todos los elementos que cumplen una condición dada.

@@ -1,0 +1,6 @@
+
+CREACION DE ELEMENTOS
+
+createElements();
+createTextNode();
+creatrDocumentFragment();

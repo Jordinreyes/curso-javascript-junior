@@ -1,0 +1,9 @@
+Document => Metodos de seleccionar elementos
+
+documentGetElemenById => Selecciona un elemento por ID
+
+documentGetElemenByTagNmae => selecciona todos los elementos que coincidan cn el nombre de etiqueta especificada
+
+documentquerySelector => devuelve el primer elemento que coincida con el grupo especificado de selectores (Selecciona por clase)
+
+documentquerySelectorAll => devuelve todos los elementos que coincidan con el grupo especificado de selectores

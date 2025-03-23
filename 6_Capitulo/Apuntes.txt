@@ -1,0 +1,16 @@
+El DOM (Document Object Model) en JavaScript es una interfaz de programación que representa la estructura de un documento HTML o XML en forma de un árbol de nodos. Permite a los scripts interactuar con la página web, modificar su contenido, estructura y estilo de manera dinámic
+
+El DOM es una representación en árbol del HTML.
+JavaScript permite manipular el DOM para modificar contenido, estilos y estructura.
+Podemos seleccionar, modificar, crear y eliminar elementos con métodos específicos
+
+NODOS => Un nodo en el DOM es cualquier etiqueta de cuerpo, como un parrafo, o el mismo body
+
+Document => el nodo document es el nodor raiz, a partir del cual derivan el resto de nodos
+Element => nodos definidos por etiqueta HTML
+Text => el texto dentro de un nodo element se considera un nuevo nodo hijo del tipo text 
+Attributos => los Attributos de las etiquetas definen nodos
+
+
+
+

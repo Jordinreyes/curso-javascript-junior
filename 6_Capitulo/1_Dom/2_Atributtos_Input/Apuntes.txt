@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------------------------------------------------------------
+
+ATRIBUTOS GLOBALES => SON LOS QUE CONTIENE TODOS LOS ELEMENTOS HTML 
+
+class => LISTA DE CLASES DEL ELEMENTO SEPERADOS POR ESPACIOS
+
+contenteditable => INDICA SI EL ELEMENTO PUEDE SER MODIFICABLE POR EL USUARIO (BOOL)
+
+dir => INDICA LA BIDIRECCIONALIDAD DEL texto
+
+hidden => INDICA SI EL ELEMENTO AUN NO ES, O YA NO ES, RELEVANTE
+
+id => DEFINE UN IDENTIFICADOR UNICO
+
+style => CONTIENE DECLARACIONES DE ESTILO CSS PARA SER APLICADAS AL ELEMENTO
+
+tabindex => INDICA SI EL ELEMENTO PUEDE OBTENER UN FOCUS DE INPUT
+
+title => CONTIENE UN TEXTO CON INFORMACION RELACIONADA AL ELEMENTO AL QUE PERTENECE
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+ATRIBUTOS DE INPUTS
+
+className
+
+value
+
+type
+
+accept
+
+form    
+
+minlength 
+
+placeholder
+
+required
+
+---------------------------------------------------------------------------------------------------------------------------------

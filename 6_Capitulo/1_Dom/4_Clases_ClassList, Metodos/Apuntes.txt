@@ -1,0 +1,17 @@
+CLASESS, CLASSLIST Y METODOS DE CLASSLIST
+
+DEFINICION Y USOS
+
+----------------------------------------------------------------------------------------------
+
+add() => AÑADE UNA CLASE 
+
+remove() => ELIMINA UNA CLASE
+
+item () => DEVUELVE LA CLASE DEL INDICE ESPECIFICADO
+
+constains() => VERIFICA SI ESE ELEMENTO POSEE O NO, LA CLASE ESPECIFICADA
+
+replace() => REMPLAZA UNA CLASE POR OTRA
+
+toggle() => SI NO TIENE LA CLASE ESPECIFICADA, LA AGREGA, SI YA LA TIENEN, LA ELIMINA
